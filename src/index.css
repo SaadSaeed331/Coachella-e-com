@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.img-div-parent:hover .side-div{
+    left: 80%;
+    
+}
+
+.img-div-parent:hover .show-btn{
+    top: 85%;
+    
+}
+
+.c1:hover .s3-img{
+    transform-origin: center;
+    transform: scale(1.1);
+}
